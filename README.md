@@ -20,3 +20,7 @@ Keep in mind that this project is mostly just regular vanilla Laravel boilerplat
 live-demonstration.
 
 If you're interested in checking the interesting bits, look over the `tests` folder. 
+
+### Additional Reading
+
+https://manual.phpdoc.org/HTMLSmartyConverter/PHP/phpDocumentor/tutorial_tags.return.pkg.html
