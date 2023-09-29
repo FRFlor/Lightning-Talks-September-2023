@@ -2,6 +2,9 @@
 
 ### Friendly Intellisense with PHP
 
+https://github.com/FRFlor/Lightning-Talks-September-2023/assets/22578748/09281b04-c012-44a5-a14b-6899b3b16b93
+
+
 In this Lightning Talk we'll cover:
 
 - using array{<elements>} notation to document associative arrays
